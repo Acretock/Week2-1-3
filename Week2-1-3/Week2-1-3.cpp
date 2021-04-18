@@ -21,7 +21,7 @@ int main()
 {
     vector<string> vec;
     string temp;
-    int m,n;
+    int m;
     getline(cin, temp);
     stringstream ss(temp);
     while (ss.good())
